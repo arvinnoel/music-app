@@ -1,6 +1,6 @@
 import playlist from "../assets/playlist-cover.jpg"
 import blindingLights from "../assets/blinding-lights.jpg";
-import levitating from "../assets/levitating.jpg";
+import levitating from "../assets/Levitating.jpg";
 import asItWas from "../assets/as-it-was.webp";
 import saveYourTears from "../assets/save-your-tears.jpg";
 import peaches from "../assets/peaches.jpg";
