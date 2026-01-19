@@ -3,7 +3,7 @@ import blindingLights from "../assets/blinding-lights.jpg";
 import levitating from "../assets/Levitating.jpg";
 import asItWas from "../assets/as-it-was.webp";
 import saveYourTears from "../assets/save-your-tears.jpg";
-import peaches from "../assets/peaches.jpg";
+import peaches from "../assets/Peaches.jpg";
 import Nolie from "../assets/No-lie.jpg"
 import shape from "../assets/shape-of-you.jpg";
 import cheap from "../assets/cheap-thrills.jpg";
